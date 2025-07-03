@@ -1,7 +1,7 @@
 # Compiler
 # 🎯 GREEK++ Compiler
 
-A full pipeline compiler for the educational programming language **GREEK++**, developed as part of the "Compilers" course at [Your University].
+A full pipeline compiler for the educational programming language **GREEK++**, developed as part of the "Compilers" course at University of Ioannina.
 
 ## 📌 Overview
 
