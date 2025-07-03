@@ -1,4 +1,4 @@
-#Τσακίρης Δημήτρης ΑΜ 5371
+#Τσακίρης Δημήτρης 
 import sys
 from write_to_c import write_to_c
 
